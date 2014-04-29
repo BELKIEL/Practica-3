@@ -1,0 +1,10 @@
+I:\Programación III\Proyectos\Practica 3\obj\Debug\ResolveAssemblyReference.cache
+I:\Programación III\Proyectos\Practica 3\bin\Debug\Practica 3.exe
+I:\Programación III\Proyectos\Practica 3\bin\Debug\Practica 3.pdb
+I:\Programación III\Proyectos\Practica 3\obj\Debug\Practica 3.exe
+I:\Programación III\Proyectos\Practica 3\obj\Debug\Practica 3.pdb
+I:\Programación III\Proyectos\Practica-3\Practica 3\bin\Debug\Practica 3.exe
+I:\Programación III\Proyectos\Practica-3\Practica 3\bin\Debug\Practica 3.pdb
+I:\Programación III\Proyectos\Practica-3\Practica 3\obj\Debug\ResolveAssemblyReference.cache
+I:\Programación III\Proyectos\Practica-3\Practica 3\obj\Debug\Practica 3.exe
+I:\Programación III\Proyectos\Practica-3\Practica 3\obj\Debug\Practica 3.pdb
