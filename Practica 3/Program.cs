@@ -35,7 +35,7 @@ namespace Practica_3
 									 
 					 
 					  Console.WriteLine("Seleccione el movimiento que desea realizar; \n\n\t 1) Revisar una persona \n\t 2) " +
-					                   "Eliminar una persona \n\t 3) Agregar una persona");
+					                   "Eliminar una persona \n\t 3) Editar una persona");
 					 
 					  int opc = int.Parse (Console.ReadLine());
 					 
